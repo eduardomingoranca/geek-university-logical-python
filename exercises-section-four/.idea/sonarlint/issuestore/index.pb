@@ -35,3 +35,11 @@
 exercise43.py,9\0\90f8e2577f847d73ee4af3f597023d490350806e
 =
 exercise24.py,f\9\f91a84ece21725c46317ea1a8fee3c4b5b6a96ea
+=
+exercise44.py,0\d\0d55417bfa5a8da5fab11ecd86a5c856aceeab52
+=
+exercise45.py,d\7\d7c8c0539c1820e3d52997fbac94c9a7f1f36903
+=
+exercise46.py,8\e\8e19cb5908fbe84be87239c292d6864448cf27a3
+=
+exercise47.py,9\d\9dc811a9d25a3e6926979a3f317ffda44d7ef00a
