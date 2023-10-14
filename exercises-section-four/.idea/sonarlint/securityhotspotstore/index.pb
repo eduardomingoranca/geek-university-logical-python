@@ -31,3 +31,7 @@
 exercise14.py,a\1\a17d362f43e821f23fa1f1fc3cdf050b96dc71e4
 =
 exercise16.py,d\8\d8239de4650f2aebc500a25131b43722de175f07
+=
+exercise43.py,9\0\90f8e2577f847d73ee4af3f597023d490350806e
+=
+exercise24.py,f\9\f91a84ece21725c46317ea1a8fee3c4b5b6a96ea
