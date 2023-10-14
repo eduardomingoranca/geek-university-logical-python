@@ -1,0 +1,5 @@
+
+L
+condicionais_if_else_elif.py,6\7\6721030a311b5cbcbb394bb0baf8cb08fd28a403
+S
+#estruturas_logicas_and_or_not_is.py,c\4\c4c26ca830114d6aeb577826ee70ff93bb18f2c3
