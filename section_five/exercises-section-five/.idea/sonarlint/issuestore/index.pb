@@ -51,3 +51,15 @@
 exercise25.py,e\4\e46eb9b6d7c5637c6092e7863760931ac5bb4cbf
 =
 exercise26.py,5\6\569c407747dba9d675e19cdc031901ec969e6f41
+=
+exercise27.py,c\2\c2fd9f1ab1961bb69b1a0d96d8bacb7d5ea304ff
+=
+exercise28.py,a\5\a59acee07c49da396fdc4fbcdd56974dcd2d6e7b
+=
+exercise29.py,6\f\6fcbc0b1f7d421d46fbe17c1d97ef5b20346d980
+=
+exercise30.py,7\7\77559e6a12f102e3a125b197e3b05b57f6c2bfdc
+=
+exercise31.py,e\4\e41e30ad0a7edbbf8d3bfbdf623ccbfeb0859a97
+=
+exercise32.py,c\b\cb417a90b52a24220024cf9d7a2d820a52b61ac5
