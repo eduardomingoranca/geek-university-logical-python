@@ -63,3 +63,7 @@
 exercise31.py,e\4\e41e30ad0a7edbbf8d3bfbdf623ccbfeb0859a97
 =
 exercise32.py,c\b\cb417a90b52a24220024cf9d7a2d820a52b61ac5
+=
+exercise33.py,4\d\4dc339dd9ce7f9b66505e3e764f5170e8e3b6e1a
+=
+exercise34.py,6\b\6b5f2cf08794b9339d1e111b16024e810e456a84
