@@ -14,17 +14,17 @@ paga ao vendedor. Para calcular a comissao, considere a tabela abaixo:
 try:
     venda = float(input('VENDA - R$ '))
 
-    if venda >= 100.000:
+    if venda >= 100000:
         print(f'COMISSAO - R$ {(700.00 + venda * 0.16):.2f}')
-    elif venda < 100.000:
+    elif 80000 <= venda < 100000:
         print(f'COMISSAO - R$ {(650.00 + venda * 0.14):.2f}')
-    elif venda < 80.000:
+    elif 60000 <= venda < 80000:
         print(f'COMISSAO - R$ {(600.00 + venda * 0.14):.2f}')
-    elif venda < 60.000:
+    elif 40000 <= venda < 60000:
         print(f'COMISSAO - R$ {(550.00 + venda * 0.14):.2f}')
-    elif venda < 40.000:
+    elif 20000 <= venda < 40000:
         print(f'COMISSAO - R$ {(500.00 + venda * 0.14):.2f}')
-    elif venda < 20.000:
+    else:
         print(f'COMISSAO - R$ {(400.00 + venda * 0.14):.2f}')
 
 except ValueError:

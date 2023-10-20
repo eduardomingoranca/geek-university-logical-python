@@ -22,10 +22,10 @@ try:
         if preco_antigo * 1.05 < 80.00:
             print(f'R$ {preco_antigo * 1.05}')
             print('BARATA')
-        elif preco_antigo * 1.05 <= 120.00:
+        elif 80.00 <= preco_antigo * 1.05 <= 120.00:
             print(f'R$ {preco_antigo * 1.05}')
             print('NORMAL')
-        elif preco_antigo * 1.05 <= 200.00:
+        elif 120.00 < preco_antigo * 1.05 <= 200.00:
             print(f'R$ {preco_antigo * 1.05}')
             print('CARO')
         else:
@@ -36,23 +36,24 @@ try:
         if preco_antigo * 1.10 < 80.00:
             print(f'R$ {preco_antigo * 1.10}')
             print('BARATA')
-        elif preco_antigo * 1.+10 <= 120.00:
+        elif 80.00 <= preco_antigo * 1.+10 <= 120.00:
             print(f'R$ {preco_antigo * 1.10}')
             print('NORMAL')
-        elif preco_antigo * 1.10 <= 200.00:
+        elif 120.00 < preco_antigo * 1.10 <= 200.00:
             print(f'R$ {preco_antigo * 1.10}')
             print('CARO')
         else:
+            print(f'R$ {preco_antigo * 1.10}')
             print('MUITO CARO')
 
     else:
         if preco_antigo * 1.15 < 80.00:
             print(f'R$ {preco_antigo * 1.15}')
             print('BARATA')
-        elif preco_antigo * 1.15 <= 120.00:
+        elif 80.00 <= preco_antigo * 1.15 <= 120.00:
             print(f'R$ {preco_antigo * 1.15}')
             print('NORMAL')
-        elif preco_antigo * 1.15 <= 200.00:
+        elif 120.00 < preco_antigo * 1.15 <= 200.00:
             print(f'R$ {preco_antigo * 1.15}')
             print('CARO')
         else:
