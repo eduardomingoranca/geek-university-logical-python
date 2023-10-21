@@ -71,3 +71,7 @@
 exercise35.py,9\5\957b9121e58bda49f053d75055502b4e6c125258
 =
 exercise36.py,c\1\c1b3796bda177a6ce422a31d0b3834dc86136e8f
+=
+exercise37.py,7\f\7fd07a8f6668e59d24faa8dd693e74b90d48199a
+=
+exercise38.py,e\f\ef60bdc95ae0052a29f788f2c6f318fb048927f5
