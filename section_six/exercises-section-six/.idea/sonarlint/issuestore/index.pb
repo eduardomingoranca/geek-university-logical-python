@@ -79,3 +79,13 @@
 exercise39.py,2\8\28700fc07abeb8f431cfb71590d02cde6d03640c
 =
 exercise40.py,a\d\adfdfa5772ef00e8de0af7bbb524ad9592bbdb65
+=
+exercise42.py,9\0\90b819f90e2918620b8617586d8e95373cf94603
+=
+exercise41.py,d\c\dc2a205dce94405b61503501d0c38f872d4d0178
+=
+exercise43.py,9\0\90f8e2577f847d73ee4af3f597023d490350806e
+=
+exercise44.py,0\d\0d55417bfa5a8da5fab11ecd86a5c856aceeab52
+=
+exercise45.py,d\7\d7c8c0539c1820e3d52997fbac94c9a7f1f36903
