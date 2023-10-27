@@ -89,3 +89,19 @@
 exercise44.py,0\d\0d55417bfa5a8da5fab11ecd86a5c856aceeab52
 =
 exercise45.py,d\7\d7c8c0539c1820e3d52997fbac94c9a7f1f36903
+=
+exercise53.py,5\d\5d855a8af09fd993cc7be4a3e71059d3ed746608
+=
+exercise52.py,f\c\fc0385892f4b8d3c8ac2d067f14d6f834ff8155a
+=
+exercise51.py,2\c\2c7eec1e6a00a74f6a57b9b5e26dc25bf68760cb
+=
+exercise50.py,f\8\f8549f81018430a058d0e8f1a5d66bbc96a6b875
+=
+exercise49.py,6\a\6aa9f86cde025c0feb3839b7dcab46dc41e5b622
+=
+exercise48.py,9\1\91657b8a73e287453e57b2e1d724e735586b1b47
+=
+exercise47.py,9\d\9dc811a9d25a3e6926979a3f317ffda44d7ef00a
+=
+exercise46.py,8\e\8e19cb5908fbe84be87239c292d6864448cf27a3
