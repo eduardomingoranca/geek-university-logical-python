@@ -6,7 +6,7 @@ try:
     loop = True
     lista = []
 
-    def buscarMenor(lst):
+    def buscar_menor(lst):
         i = float("inf")
         for nr in lst:
             if 0 < nr < i:
@@ -24,7 +24,7 @@ try:
         if n < 0:
             loop = False
             print(f'Maior: {maior}')
-            print(f'Menor: {buscarMenor(lista)}')
+            print(f'Menor: {buscar_menor(lista)}')
 
 except ValueError:
     print('O formato de valor informado esta invalido!')

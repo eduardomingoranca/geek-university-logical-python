@@ -10,4 +10,3 @@ while contagem >= 0:
         print('FIM!')
         break
     contagem = contagem - 1
-
