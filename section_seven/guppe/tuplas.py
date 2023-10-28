@@ -1,16 +1,16 @@
 """
 Tuplas (tuple)
 
-Tuplas são bastante parecidas com listas.
+Tuplas sao bastante parecidas com listas.
 
-Existem basicamente duas diferenças básicas:
+Existem basicamente duas diferencas basicas:
 
-1 - As tuplas são representdas por parênteses ()
+1 - As tuplas sao representadas por parenteses ()
 
-2 - As tuplas são imutáveis: Isso significa que ao se criar uma tupla ela não muda. Toda
-operação em uma tupla gera uma nova tupla.
+2 - As tuplas sao imutaveis: Isso significa que ao se criar uma tupla ela nao muda. Toda
+operacao em uma tupla gera uma nova tupla.
 
-# CUIDADO 1: As tuplas são representadas por (), mas veja:
+# CUIDADO 1: As tuplas sao representadas por (), mas veja:
 
 tupla1 = (1, 2, 3, 4, 5, 6,)
 print(tupla1)
@@ -24,13 +24,13 @@ print(type(tupla2))
 
 # CUIDADO 2: Tuplas com 1 elemento
 
-tupla3 = (4)  # Isso não é uma tupla!
+tupla3 = (4)  # Isso nao eh uma tupla!
 print(tupla3)
 
 print(type(tupla3))
 
 
-tupla4 = (4,)  # Isso é uma tupla!
+tupla4 = (4,)  # Isso eh uma tupla!
 print(tupla4)
 
 print(type(tupla4))
@@ -40,11 +40,11 @@ print(tupla5)
 
 print(type(tupla5))
 
-# CONCLUSÃO: Podemos concluir que tuplas são definidas pela vírtula e não pelo uso do parênteses
+# CONCLUSAO: Podemos concluir que tuplas sao definidas pela virtula e nao pelo uso do parenteses
 
-(4) -> Não é tupla
-(4,) -> É tupla
-4, -> É tupla
+(4) -> Nao eh tupla
+(4,) -> eh tupla
+4, -> eh tupla
 
 # Podemos gerar uma tupla dinamicamente com range(inicio,fim,passo)
 tupla = tuple(range(11))
@@ -53,18 +53,18 @@ print(type(tupla))
 
 # Desempacotamento de tupla
 
-tupla = ('Geek University', 'Programação em Python: Essencial')
+tupla = ('Geek University', 'Programacao em Python: Essencial')
 
 escola, curso = tupla
 
 print(escola)
 print(curso)
 
-# OBS: Gera erro (ValueError) se colocarmos um número diferente de elementos para desenpacotar.
+# OBS: Gera erro (ValueError) se colocarmos um numero diferente de elementos para desenpacotar.
 
-# Métodos para adição e remoção de elementos nas tuplas são existem, dado o fato das tuplas serem imutáveis.
+# Metodos para adicao e remocao de elementos nas tuplas sao existem, dado o fato das tuplas serem imutaveis.
 
-# Soma*, Valor Máximo*, Valor Mínimo* e Tamanho
+# Soma*, Valor Maximo*, Valor Minimo* e Tamanho
 
 # * Se os valores forem todos inteiros ou reais
 
@@ -75,7 +75,7 @@ print(max(tupla))
 print(min(tupla))
 print(len(tupla))
 
-# Concatenação de tuplas
+# Concatenacao de tuplas
 
 tupla1 = (1, 2, 3)
 print(tupla1)
@@ -83,7 +83,7 @@ print(tupla1)
 tupla2 = (4, 5, 6)
 print(tupla2)
 
-print(tupla1 + tupla2)  # Tuplas são imutáveis
+print(tupla1 + tupla2)  # Tuplas sao imutaveis
 
 print(tupla1)
 print(tupla2)
@@ -95,10 +95,10 @@ print(tupla1)
 print(tupla2)
 
 
-tupla1 = tupla1 + tupla2  # Tuplas são imutáveis, mas podemos sobrescrever seus valores
+tupla1 = tupla1 + tupla2  # Tuplas sao imutaveis, mas podemos sobrescrever seus valores
 print(tupla1)
 
-# Verificar se determinado elemento está contido na tupla
+# Verificar se determinado elemento esta contido na tupla
 
 tupla = (1, 2, 3)
 
@@ -127,13 +127,14 @@ print(escola)
 print(escola.count('e'))
 
 
-# Dicas na utilização de tuplas
+# Dicas na utilizacao de tuplas
 
-# Devemos utilizar tuplas SEMPRE que não precisarmos modificar os dados contidos em uma coleção
+# Devemos utilizar tuplas SEMPRE que nao precisarmos modificar os dados contidos em uma colecao
 
 # Exemplo 1
 
-meses = ('Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Junho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro')
+meses = ('Janeiro', 'Fevereiro', 'Marco', 'Abril', 'Maio', 'Junho', 'Junho', 'Agosto', 'Setembro', 'Outubro', 'Novembro'
+,'Dezembro')
 
 
 # Slicing
@@ -143,7 +144,7 @@ meses = ('Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Junho', 'A
 print(meses[5:9])
 
 
-# O acesso a elementos de uma tupla também é semelhante a de uma lista
+# O acesso a elementos de uma tupla tambem eh semelhante a de uma lista
 
 print(meses[5])
 
@@ -154,25 +155,25 @@ while i < len(meses):
     print(meses[i])
     i = i + 1
 
-# Verificamos em qual índice um elemento está na tupla
+# Verificamos em qual indice um elemento esta na tupla
 
 print(meses.index('Junho'))
 
-# OBS: Caso o elemento não exista, será gerado ValueError.
+# OBS: Caso o elemento nao exista, sera gerado ValueError.
 
-# Por quê utilizar tuplas?
+# Por que utilizar tuplas?
 
-# - Tuplas são mais rápidas do que listas.
-# - Tuplas deixam seu código mais seguro*.
+# - Tuplas sao mais rapidas do que listas.
+# - Tuplas deixam seu codigo mais seguro*.
 
-# * Isso porque trabalhar com elementos imutáveis traz segurança para o código.
+# * Isso porque trabalhar com elementos imutaveis traz seguranca para o codigo.
 
 # Copiando uma tupla para outra
 
 tupla = (1, 2, 3)
 print(tupla)
 
-nova = tupla  # Na tupla não temos o problema de Shallow Copy
+nova = tupla  # Na tupla nao temos o problema de Shallow Copy
 
 print(nova)
 print(tupla)
