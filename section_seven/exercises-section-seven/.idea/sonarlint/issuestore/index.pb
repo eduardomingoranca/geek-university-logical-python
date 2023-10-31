@@ -43,3 +43,17 @@
 exercise20.py,2\b\2b8c44aa26cdf96921eb190f02b753041e932f00
 =
 exercise22.py,c\1\c11571d513be1dd37c3ecd4c82e5928c8dc3c7d9
+=
+exercise23.py,e\4\e48ff03183fa7cc4a0637b493690d224053ceb0d
+=
+exercise27.py,c\2\c2fd9f1ab1961bb69b1a0d96d8bacb7d5ea304ff
+=
+exercise26.py,5\6\569c407747dba9d675e19cdc031901ec969e6f41
+=
+exercise25.py,e\4\e46eb9b6d7c5637c6092e7863760931ac5bb4cbf
+=
+exercise24.py,f\9\f91a84ece21725c46317ea1a8fee3c4b5b6a96ea
+=
+exercise28.py,a\5\a59acee07c49da396fdc4fbcdd56974dcd2d6e7b
+=
+exercise29.py,6\f\6fcbc0b1f7d421d46fbe17c1d97ef5b20346d980
