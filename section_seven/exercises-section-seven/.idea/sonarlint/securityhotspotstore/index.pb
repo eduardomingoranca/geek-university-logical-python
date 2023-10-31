@@ -41,3 +41,5 @@
 exercise21.py,e\0\e02ddf603757f071f45d8731169af14bbcc4857a
 =
 exercise20.py,2\b\2b8c44aa26cdf96921eb190f02b753041e932f00
+=
+exercise22.py,c\1\c11571d513be1dd37c3ecd4c82e5928c8dc3c7d9
