@@ -122,7 +122,7 @@ receita.update({'mai': 600})
 print(receita)
 
 # CONCLUSAO 1: A forma de adicionar novos elementos ou atualizar dados em um dicionario eh a mesma.
-# CONCLUSAO 2: Em dicionarios, NaO podemos ter chaves repetidas.
+# CONCLUSAO 2: Em dicionarios, Nao podemos ter chaves repetidas.
 
 # Remover dados de um dicionario
 
