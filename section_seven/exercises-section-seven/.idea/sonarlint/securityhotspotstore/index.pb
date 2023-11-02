@@ -57,3 +57,11 @@
 exercise28.py,a\5\a59acee07c49da396fdc4fbcdd56974dcd2d6e7b
 =
 exercise29.py,6\f\6fcbc0b1f7d421d46fbe17c1d97ef5b20346d980
+=
+exercise30.py,7\7\77559e6a12f102e3a125b197e3b05b57f6c2bfdc
+=
+exercise31.py,e\4\e41e30ad0a7edbbf8d3bfbdf623ccbfeb0859a97
+=
+exercise32.py,c\b\cb417a90b52a24220024cf9d7a2d820a52b61ac5
+=
+exercise33.py,4\d\4dc339dd9ce7f9b66505e3e764f5170e8e3b6e1a
