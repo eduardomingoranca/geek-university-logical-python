@@ -23,3 +23,9 @@
 exercise11.py,7\9\79a0e10fc0c40913f218c47024b3c0b3d6f7efe9
 =
 exercise12.py,5\4\54a82f14d168846fa37398c0a898e2e84381699a
+=
+exercise13.py,c\b\cbfca9648282714dfc238e540070c701060784f6
+=
+exercise14.py,a\1\a17d362f43e821f23fa1f1fc3cdf050b96dc71e4
+=
+exercise15.py,a\1\a1b015fe6510d2cc830debc57dfb2d8004ccc233
