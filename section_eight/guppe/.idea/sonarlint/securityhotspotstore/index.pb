@@ -7,3 +7,5 @@ F
 funcoes_com_retorno.py,0\4\0471fd1bedbdb9297bdbe8087e4fc5d19b1ad99a
 H
 funcoes_com_parametro.py,b\b\bbe4b019205018c3d8feec100f04ceb7049fc22b
+O
+funcoes_com_parametro_padrao.py,8\e\8e5099e2ce9be20e175bc411438fef1795241422
