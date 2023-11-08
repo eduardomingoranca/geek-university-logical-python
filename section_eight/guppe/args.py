@@ -2,7 +2,7 @@
 Entendendo o *args
 
 - O *args eh um parametro, como outro qualquer. Isso significa que voce podera
-charmar de qualquer coisa, desde que comece com asterisco.
+chamar de qualquer coisa, desde que comece com asterisco.
 
 Exemplo:
 
