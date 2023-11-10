@@ -4,31 +4,31 @@ no formato textual por extenso.
 """
 
 
-def data_textual(dia, mes, ano):
-    if mes == 1:
-        return f'{dia} de janeiro de {ano}'
-    elif mes == 2:
-        return f'{dia} de fevereiro de {ano}'
-    elif mes == 3:
-        return f'{dia} de marco de {ano}'
-    elif mes == 4:
-        return f'{dia} de abril de {ano}'
-    elif mes == 5:
-        return f'{dia} de maio de {ano}'
-    elif mes == 6:
-        return f'{dia} de junho de {ano}'
-    elif mes == 7:
-        return f'{dia} de julho de {ano}'
-    elif mes == 8:
-        return f'{dia} de agosto de {ano}'
-    elif mes == 9:
-        return f'{dia} de setembro de {ano}'
-    elif mes == 10:
-        return f'{dia} de outubro de {ano}'
-    elif mes == 11:
-        return f'{dia} de novembro de {ano}'
-    elif mes == 12:
-        return f'{dia} de dezembro de {ano}'
+def data_textual(d, m, a):
+    if m == 1:
+        return f'{d} de janeiro de {a}'
+    elif m == 2:
+        return f'{d} de fevereiro de {a}'
+    elif m == 3:
+        return f'{d} de marco de {a}'
+    elif m == 4:
+        return f'{d} de abril de {a}'
+    elif m == 5:
+        return f'{d} de maio de {a}'
+    elif m == 6:
+        return f'{d} de junho de {a}'
+    elif m == 7:
+        return f'{d} de julho de {a}'
+    elif m == 8:
+        return f'{d} de agosto de {a}'
+    elif m == 9:
+        return f'{d} de setembro de {a}'
+    elif m == 10:
+        return f'{d} de outubro de {a}'
+    elif m == 11:
+        return f'{d} de novembro de {a}'
+    elif m == 12:
+        return f'{d} de dezembro de {a}'
 
 
 try:

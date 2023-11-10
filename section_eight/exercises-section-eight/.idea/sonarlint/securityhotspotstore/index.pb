@@ -27,3 +27,13 @@
 exercise13.py,c\b\cbfca9648282714dfc238e540070c701060784f6
 =
 exercise14.py,a\1\a17d362f43e821f23fa1f1fc3cdf050b96dc71e4
+=
+exercise15.py,a\1\a1b015fe6510d2cc830debc57dfb2d8004ccc233
+=
+exercise16.py,d\8\d8239de4650f2aebc500a25131b43722de175f07
+=
+exercise17.py,4\0\40417328f4c026d1dd79ae2cc3d414de27ebae9d
+=
+exercise18.py,6\8\68fd2b6ca44a12bdd64e4004558320802a93607b
+=
+exercise19.py,5\6\56c8b462af6ad18ca6df53fcc8ca1fcd3730ce3c
