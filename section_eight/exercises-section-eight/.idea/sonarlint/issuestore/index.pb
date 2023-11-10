@@ -37,3 +37,7 @@
 exercise18.py,6\8\68fd2b6ca44a12bdd64e4004558320802a93607b
 =
 exercise19.py,5\6\56c8b462af6ad18ca6df53fcc8ca1fcd3730ce3c
+=
+exercise20.py,2\b\2b8c44aa26cdf96921eb190f02b753041e932f00
+=
+exercise21.py,e\0\e02ddf603757f071f45d8731169af14bbcc4857a
