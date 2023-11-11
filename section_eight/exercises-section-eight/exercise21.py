@@ -1,14 +1,14 @@
 """
-Faca uma funcao que retorne o maior fator primo de um numero
+Escreva uma funcao para determinar a quantidade de numeros primos abaixo N.
 """
 import math
 
 
-def maior_primo(n):
+def quantidade_primos(numero):
     # Fazemos um loop para percorrer os numeros de 2 ate o valor digitado
     i = 2
-    maior = []
-    while i <= n:
+    soma = 0
+    while i < numero:
         # Fazemos um casting para que nos retorne um numero inteiro
         raiz = int(math.sqrt(i))
         primo = 0
@@ -25,20 +25,20 @@ def maior_primo(n):
         # Dependendo do numero de divisiveis sabemos se eh primo ou nao,
         # se for primo o contador sera 0
         if primo < 1:
-            maior.append(i)
+            soma = soma + 1
         i = i + 1
 
-    return max(maior)
+    return soma
 
 
 try:
     loop = True
     while loop:
-        numero = int(input('Informe um numero inteiro: '))
+        n = int(input('Informe um numero inteiro: '))
 
-        if numero > 1:
+        if n > 1:
             loop = False
-            print(f'MAIOR FATOR PRIMO: {maior_primo(numero)}')
+            print(f'Existe {quantidade_primos(n)} numeros primos abaixo de {n}')
 
 except ValueError:
     print('FORMATO INVALIDO!')
