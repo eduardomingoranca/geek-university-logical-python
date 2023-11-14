@@ -115,3 +115,15 @@
 exercise57.py,7\c\7c17799f0b7406cb6532f438f1059bbde0b1986c
 =
 exercise58.py,5\2\52a82e9ed076614124ad3a242c567ad2b40b62af
+=
+exercise59.py,7\f\7f82e5b60c29a57e0d4a6ee39cd1b659136575d1
+=
+exercise60.py,d\c\dcd276341dbb9ac76c3fed7aa138887dadbd4541
+=
+exercise61.py,b\d\bdb28b372cbd5896fa5a940e0e750d19138b3bdd
+=
+exercise62.py,5\c\5cc95e22b19305479dfa1821467a9a202fbbd513
+=
+exercise63.py,9\d\9d5174e009dd14b7802edd3c3a904a44fffdae0e
+=
+exercise64.py,a\d\ad7f9578920ad1f4b8c5174bc51f1fc00caccec2
