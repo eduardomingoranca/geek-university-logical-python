@@ -127,3 +127,21 @@
 exercise63.py,9\d\9d5174e009dd14b7802edd3c3a904a44fffdae0e
 =
 exercise64.py,a\d\ad7f9578920ad1f4b8c5174bc51f1fc00caccec2
+=
+exercise65.py,5\8\582dac15bf34e4d02589542db163eae1de5a932b
+=
+exercise66.py,4\a\4a3b0aec56467f1a8f7515ad07cce4f6cec9221d
+=
+exercise67.py,8\f\8f30b9de6bf11b6bc9407166fb9a450df02d83e0
+=
+exercise68.py,5\2\52f24f00fd1dd652b1c4d092ca5cc729f942b277
+=
+exercise69.py,7\1\718231039e754d8968faa8941d966bcea7afb84a
+=
+exercise70.py,1\5\1583ce243f42dd48bfccf368a47bb344a9d9cc92
+=
+exercise71.py,a\9\a92f4178b513ca2ed86e7ed055e354a654a46f69
+=
+exercise72.py,3\f\3fa1e0ae8f4ea2c48935b92d113762fb56be6602
+=
+exercise73.py,7\9\79879b354af1147b7e82ef8aeeba53bf3110bdef
