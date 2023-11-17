@@ -3,11 +3,11 @@ List Comprehension
 
 
 - Utilizando List Comprehension nós podemos gerar novas listas com dados processados a partir de outro
-iterável.
+iteravel.
 
 # Sintaxe da List Comprehension
 
-[ dado for dado in iterável ]
+[ dado for dado in iteravel ]
 
 # Exemplos
 
@@ -18,7 +18,7 @@ res = [numero * 10 for numero in numeros]
 print(res)
 """
 """
-Para entender melhor o que está acontecendo devemos divir a expressão em duas partes:
+Para entender melhor o que esta acontecendo devemos divir a expressao em duas partes:
 
 - A primeira parte: for numero in numeros
 - A segunda parte: numero * 10
@@ -67,7 +67,7 @@ def caixa_alta(n):
     return n
 
 
-amigos = ['maria', 'julia', 'pedro', 'guilherme', 'vanessa']
+amigos = ['mary', 'julia', 'peter', 'william', 'vanessa']
 
 print([caixa_alta(amigo) for amigo in amigos])
 
