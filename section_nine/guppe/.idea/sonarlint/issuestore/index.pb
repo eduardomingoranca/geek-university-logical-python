@@ -7,3 +7,5 @@ C
 listas_aninhadas.py,3\9\39ec16f2fc558eb1c0751462e9e4f32b7dbbcdf6
 K
 dictionary_comprehension.py,f\c\fc12acbe6b6ae43dafbf5309facd66eb40828878
+D
+set_comprehension.py,4\e\4e35925a1bdd6b0c9671c500241f9ac70c87221c
