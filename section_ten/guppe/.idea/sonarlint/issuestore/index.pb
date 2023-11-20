@@ -18,3 +18,5 @@ any_all.py,e\b\eba808f67888db0eaf1fb222078f95d06349f048
 :
 
 min_max.py,9\c\9c4e13f4370474c1641ecc7352ca1c508980012a
+;
+reversed.py,4\8\484974d4a8cc69b3af44cc670fb45055a25c90f7
