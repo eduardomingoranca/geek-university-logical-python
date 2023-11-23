@@ -1,6 +1,4 @@
 
-7
-main.py,f\1\f1bdda93d9a278e358509d498e17d97764c1fb29
 @
 modulo_random.py,e\6\e66e7ddfc4ccd1c7499682b5642ec71ee11ed12a
 B
@@ -9,3 +7,5 @@ G
 modulos_customizados.py,9\c\9c9277d0a45c6a3f77088d0ba2888846db9fd842
 6
 map.py,0\b\0b880f7499f97b2fbf132397a8074e334d012416
+C
+modulos_externos.py,7\e\7e835cf3e082eb0ea2979786e05287616d0e3728
