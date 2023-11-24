@@ -9,3 +9,12 @@ G
 map.py,0\b\0b880f7499f97b2fbf132397a8074e334d012416
 C
 modulos_externos.py,7\e\7e835cf3e082eb0ea2979786e05287616d0e3728
+K
+geek/university/__init__.py,6\7\67faf16327178e1d839414edf1020b37ef977787
+:
+
+pacotes.py,e\f\ef6d0f000c46d924d9ac147a42a5f3315b421d4e
+=
+geek/geek1.py,3\5\3574b1467368a9e4146030bcfc3083886c8b477e
+H
+geek/university/geek4.py,8\8\88b1c45f4b27dcd5bfcda4c8a46c211dff0f487c

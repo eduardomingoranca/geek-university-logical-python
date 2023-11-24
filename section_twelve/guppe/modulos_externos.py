@@ -1,13 +1,13 @@
 """
-Módulos Externos
+Modulos Externos
 
 Utilizamos o gerenciador de pacotes Python chamado Pip - Python Installler Package
 
 Você pode conhecer todos os pacotes externos oficiais em: https://pypi.org
 
-colorama -> É utilizado para permtir impressão de textos coloridos no termimal.
+colorama -> Eh utilizado para permitir impressao de textos coloridos no termimal.
 
-Instalando um módulo:
+Instalando um modulo:
 
 pip install nome-do-modulo
 
