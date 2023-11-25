@@ -9,3 +9,5 @@ C
 seek_cursos.py,f\3\f38d23a8a9a236837dc0cd2fd5fadc6d60d26f01
 ?
 seek_cursors.py,f\a\fae658859303c89a1e69c7f80ef7047452fc771e
+=
+bloco_with.py,e\e\ee415a031d49bb8557336ad4f9437914ef39be18
