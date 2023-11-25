@@ -5,3 +5,7 @@ C
 leitura_arquivos.py,9\b\9b4124760ff463dfd431993626b7043303b17668
 9
 	texto.txt,8\2\82e61b507a4d40a226dddab8cf173e9af1cfa02a
+>
+seek_cursos.py,f\3\f38d23a8a9a236837dc0cd2fd5fadc6d60d26f01
+?
+seek_cursors.py,f\a\fae658859303c89a1e69c7f80ef7047452fc771e
