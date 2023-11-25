@@ -16,3 +16,7 @@ D
 :
 
 frutas.txt,2\1\213df3e5e31349d8b56821e9d3f5a350d8f8458b
+I
+modos_abertura_arquivo.py,b\e\beb7e6150b82a76184711a06604c5b2b6039ed39
+9
+	outro.txt,5\c\5cc7bc9733fd4984c7ca4de6963dedca18f3b5f7
