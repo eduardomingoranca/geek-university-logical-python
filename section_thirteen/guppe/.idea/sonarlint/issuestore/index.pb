@@ -11,3 +11,8 @@ C
 seek_cursors.py,f\a\fae658859303c89a1e69c7f80ef7047452fc771e
 =
 bloco_with.py,e\e\ee415a031d49bb8557336ad4f9437914ef39be18
+D
+escrever_arquivos.py,a\6\a642b5d446e0ba8b9844cbd9748505e619b07467
+:
+
+frutas.txt,2\1\213df3e5e31349d8b56821e9d3f5a350d8f8458b
