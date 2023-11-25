@@ -20,3 +20,11 @@ I
 modos_abertura_arquivo.py,b\e\beb7e6150b82a76184711a06604c5b2b6039ed39
 9
 	outro.txt,5\c\5cc7bc9733fd4984c7ca4de6963dedca18f3b5f7
+;
+stringio.py,c\3\c30ec37d8c09adb5dbf5b2d808358481918ff101
+@
+files/frutas.txt,8\b\8b3f4b5372e2bc5667d611750165fc42afd1dc30
+?
+files/outro.txt,c\d\cd189f3656a0e0220917b4af7bb05fdef3175bcd
+?
+files/texto.txt,3\a\3a8013b46129312a1d9971a1cba643049dc1f4b1

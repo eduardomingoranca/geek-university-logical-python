@@ -70,7 +70,7 @@ print(arquivo.read())
 # OBS: Se tentarmos manipular o arquivo apos seu fechamento, teremos um ValueError
 """
 
-arquivo = open('texto.txt')
+arquivo = open('files/texto.txt')
 
 # Com a funcao read() podemos limitar a quantidade de caracteres a serem lidos no arquivo
 print(arquivo.read(50))

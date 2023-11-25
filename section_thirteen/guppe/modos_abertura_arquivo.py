@@ -32,7 +32,7 @@ with open('frutas.txt', 'a') as arquivo:
 """
 
 # Exemplo r+
-with open('outro.txt', 'r+') as arquivo:
+with open('files/outro.txt', 'r+') as arquivo:
     arquivo.write('Adicionada\n')
     arquivo.seek(11)
     arquivo.write('Nova linha.\n')
