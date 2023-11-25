@@ -1,0 +1,7 @@
+
+7
+main.py,f\1\f1bdda93d9a278e358509d498e17d97764c1fb29
+C
+leitura_arquivos.py,9\b\9b4124760ff463dfd431993626b7043303b17668
+9
+	texto.txt,8\2\82e61b507a4d40a226dddab8cf173e9af1cfa02a
