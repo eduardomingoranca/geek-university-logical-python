@@ -18,3 +18,10 @@ pacotes.py,e\f\ef6d0f000c46d924d9ac147a42a5f3315b421d4e
 geek/geek1.py,3\5\3574b1467368a9e4146030bcfc3083886c8b477e
 H
 geek/university/geek4.py,8\8\88b1c45f4b27dcd5bfcda4c8a46c211dff0f487c
+9
+	dunder.py,3\7\37b5295b1a37c780f19b27d5647d60aea6185396
+;
+primeiro.py,b\d\bde02ea9c035eca032c1a3b6c5771d88875cf9ba
+:
+
+segundo.py,c\9\c9df55662c2bfe9564ca4bfd179a82c6001f9481
