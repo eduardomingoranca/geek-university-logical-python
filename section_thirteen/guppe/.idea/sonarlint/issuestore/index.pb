@@ -19,3 +19,5 @@ I
 files/texto.txt,3\a\3a8013b46129312a1d9971a1cba643049dc1f4b1
 M
 sistema_arquivos_navegacao.py,0\5\0596b11593204ba6c2157ff3b46a746ab295a10b
+O
+sistema_arquivos_manipulacao.py,b\a\ba90d27835b54cdfd72560218da8db4e3aff2b26
