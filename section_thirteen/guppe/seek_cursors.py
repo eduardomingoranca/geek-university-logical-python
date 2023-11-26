@@ -24,7 +24,10 @@ print(arquivo.read())
 
 # readline() -> Funcao que le o arquivo linha a linha (readline -> le linha)
 
-ret = arquivo.readline()
+
+
+
+
 
 print(type(ret))
 
