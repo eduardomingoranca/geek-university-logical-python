@@ -1,0 +1,7 @@
+Bean,   10.92
+Rice,   29.83
+Flour,  47.65
+Sugar,  19.02
+Noodle, 28.74
+
+Total Price: $136.16
