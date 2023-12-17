@@ -1,0 +1,5 @@
+Advogado, 9.0
+Engenheiro de Software, 8.5
+Gerente, 7.0
+Diretor, 6.5
+Coordenador, 5.0
