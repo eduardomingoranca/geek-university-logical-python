@@ -77,8 +77,6 @@ E
 files/total_price.txt,d\e\de065822df7d86d8b09747c6b3d8a1b115772f94
 =
 exercise19.py,5\6\56c8b462af6ad18ca6df53fcc8ca1fcd3730ce3c
-9
-	grade.txt,3\4\34a3b0e9078ffaa4ba083e97de02c21ebc76ab0a
 ?
 files/grade.txt,d\3\d385d82dacfb564d7abb9e530b1d0b67512436ae
 =
@@ -89,3 +87,7 @@ I
 exercise21.py,e\0\e02ddf603757f071f45d8731169af14bbcc4857a
 =
 exercise22.py,c\1\c11571d513be1dd37c3ecd4c82e5928c8dc3c7d9
+F
+files/names_grades.txt,4\5\45a43f2a527418a02c0f063ee6f59d284ea1c75a
+I
+files/ascending_order.txt,d\6\d6d642781115305cd557c0b09afa4594a672c4f3
