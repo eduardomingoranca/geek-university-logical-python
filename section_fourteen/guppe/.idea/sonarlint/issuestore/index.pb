@@ -7,3 +7,5 @@ G
 iterador_customizado.py,6\c\6cb25da880adbb43f140c738ec44f8daff13ea88
 <
 geradores.py,a\2\a2b3a8ef8d268ed8921b90103ce571d94060fa32
+@
+teste_memoria.py,1\d\1d9eaf674c29856b1d449134a03c4ecf2415fc3d
