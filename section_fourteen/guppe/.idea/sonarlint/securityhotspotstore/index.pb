@@ -1,0 +1,3 @@
+
+Q
+!entendendo_iterators_iterables.py,9\4\946464020205edad97c5fa3a0a9b70ecf54bbf7f
