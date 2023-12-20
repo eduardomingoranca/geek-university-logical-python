@@ -11,3 +11,5 @@ metodos.py,c\2\c203607c48ad2307c7b06654fec35bac8a8138ef
 :
 
 objetos.py,3\b\3b3f744182732c5ce2c8d1171a87470f15907ef3
+K
+abstracao_encapsulamento.py,5\2\520693c7346056ac4e14dd15debe0c90221487ce
