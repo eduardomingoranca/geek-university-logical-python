@@ -9,3 +9,5 @@ G
 preservando_metadata.py,a\c\ac1d5e0d101e6f88729cc2dc3c9910bf1506d6de
 A
 forcando_tipos.py,c\4\c46963889f2998427879c07c2d15059490d1541b
+6
+poo.py,c\e\ce9a20b5f1d3c40bf1dca9813a95618eb9bb656d
