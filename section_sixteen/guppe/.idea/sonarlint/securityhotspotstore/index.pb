@@ -8,3 +8,6 @@ J
 :
 
 metodos.py,c\2\c203607c48ad2307c7b06654fec35bac8a8138ef
+:
+
+objetos.py,3\b\3b3f744182732c5ce2c8d1171a87470f15907ef3
