@@ -8,3 +8,5 @@ heranca.py,2\8\28255eb5e7ea131a01a2e2c9fc7e1f6fd7c3bf38
 super.py,3\7\37fdea899e15c1bbc2ebd1d2e96ae859dfb8fbae
 C
 heranca_multipla.py,d\9\d961721d0010902dd97c46eaf50ad991892f87f6
+6
+mro.py,5\c\5c37caca2e6fa2bfb68e8ca666c9f02e133f693a
