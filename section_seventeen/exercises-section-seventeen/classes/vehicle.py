@@ -14,6 +14,9 @@ def motor_gear(gear):
             return 'quinta'
 
 
+invalid_gear = 'marcha invalida!'
+
+
 def lower_gear(gear):
     if gear < 0:
         return True
@@ -24,21 +27,32 @@ def highest_gear(gear):
         return True
 
 
+def turn_off(to_connect):
+    if not to_connect:
+        return 'desligada'
+
+
+def turn_in(to_connect):
+    if to_connect:
+        return 'ligada'
+
+
 class Motorcycle:
 
-    def __init__(self, brand, model, color, gear):
+    def __init__(self, brand, model, color, gear, to_connect):
         self.__brand = brand
         self.__model = model
         self.__color = color
         self.__gear = gear
+        self.__to_connect = to_connect
 
     def gear_up(self, gear):
 
         if lower_gear(gear):
-            return 'marcha invalida!'
+            return invalid_gear
 
         if highest_gear(gear):
-            return 'marcha invalida!'
+            return invalid_gear
 
         match gear:
             case 0:
@@ -56,10 +70,10 @@ class Motorcycle:
 
     def gear_down(self, gear):
         if lower_gear(gear):
-            return 'marcha invalida!'
+            return invalid_gear
 
         if highest_gear(gear):
-            return 'marcha invalida!'
+            return invalid_gear
 
         match gear:
             case 5:
@@ -76,5 +90,9 @@ class Motorcycle:
                 return f'{self.__brand}, {self.__model}, {self.__color}, marcha neutra'
 
     def print(self):
-        return f'{self.__brand}, {self.__model}, {self.__color}, marcha: {motor_gear(self.__gear)}'
+        if self.__to_connect:
+            return (f'{self.__brand}, {self.__model}, {self.__color}, {motor_gear(self.__gear)} marcha,'
+                    f' a moto esta {turn_in(self.__to_connect)}!')
 
+        return (f'{self.__brand}, {self.__model}, {self.__color}, {motor_gear(self.__gear)} marcha,'
+                f' a moto esta {turn_off(self.__to_connect)}!')
