@@ -7,6 +7,6 @@ a Moto se encontra no momento, sendo representando de forma inteira, onde 0 - ne
 """
 from classes.vehicle import Motorcycle
 
-m1 = Motorcycle('BMW', 'F 850 GS Adventure', 'Black', 2)
+m1 = Motorcycle('BMW', 'F 850 GS Adventure', 'Black', 2, 'null')
 
 print(m1.print())

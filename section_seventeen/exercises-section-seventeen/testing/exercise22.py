@@ -4,6 +4,6 @@ mudar o conteudo do atributo ligado conforme o caso.
 """
 from classes.house import Television
 
-t1 = Television(True, 5, 20)
+t1 = Television(True, 5, 20, 'null', 'null')
 
 print(t1.print())

@@ -51,3 +51,9 @@ E
 testing/exercise21.py,5\c\5cc347a9143dddb5aad7feb15acbf2df3433d967
 E
 testing/exercise22.py,3\7\370a961527550f4bfe8eceddb88299bd1bf4e750
+E
+testing/exercise23.py,4\d\4dca66d9273467376b532215c1e5211aa5a60c93
+E
+testing/exercise24.py,5\1\5141752de3f713c99220d88663c2b59fb863d5a5
+E
+testing/exercise25.py,4\e\4eae9285c332431d0c970625d4798c8d73cf5803

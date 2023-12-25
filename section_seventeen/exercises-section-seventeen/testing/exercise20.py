@@ -8,6 +8,6 @@ volume devera indicar o volume atual do televisor.
 """
 from classes.house import Television
 
-t1 = Television(True, 4, 25)
+t1 = Television(True, 4, 25, 'null', 'null')
 
 print(t1.print())

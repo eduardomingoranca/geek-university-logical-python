@@ -4,6 +4,6 @@ definicao de todos os atributos no momento da instanciacao do objeto.
 """
 from classes.house import Television
 
-t1 = Television(False, 4, 25)
+t1 = Television(False, 4, 25, 'null', 'null')
 
 print(t1.print())
