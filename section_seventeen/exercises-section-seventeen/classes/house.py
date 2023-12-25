@@ -43,6 +43,18 @@ class Television:
         else:
             self.__channel = self.__channel - 1
 
+    def volume_up(self):
+        if self.__volume < self.__max_volume:
+            self.__volume = self.__volume + 1
+        else:
+            self.__volume = 0
+
+    def volume_down(self):
+        if self.__volume <= 0:
+            self.__volume = self.__max_volume
+        else:
+            self.__volume = self.__volume - 1
+
     def print(self):
         if self.__connected:
             return (f'O televisor esta {turn_in(self.__connected)}, no canal {self.__channel} o volume esta no '

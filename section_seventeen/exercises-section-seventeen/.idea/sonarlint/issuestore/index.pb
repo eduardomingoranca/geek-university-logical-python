@@ -57,3 +57,5 @@ E
 testing/exercise24.py,5\1\5141752de3f713c99220d88663c2b59fb863d5a5
 E
 testing/exercise25.py,4\e\4eae9285c332431d0c970625d4798c8d73cf5803
+E
+testing/exercise26.py,7\c\7cec85c03de55357984b660535b84529c6277cf0
