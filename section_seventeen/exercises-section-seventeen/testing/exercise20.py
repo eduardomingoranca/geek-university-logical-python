@@ -10,4 +10,4 @@ from classes.house import Television
 
 t1 = Television(True, 4, 25, 'null', 'null')
 
-print(t1.print())
+print(t1.__print__())

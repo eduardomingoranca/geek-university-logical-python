@@ -6,4 +6,4 @@ from classes.house import HouseholdAppliance
 
 h1 = HouseholdAppliance(False)
 
-print(h1.print_household_appliance())
+print(h1.__print_household_appliance__())

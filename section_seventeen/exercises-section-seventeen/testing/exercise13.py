@@ -6,5 +6,5 @@ from classes.vehicle import Motorcycle
 
 m1 = Motorcycle('BMW', 'F 850 GS Adventure', 'Yellow', 2, 'null')
 
-print(m1.gear_up(3))
-print(m1.gear_down(2))
+print(m1.__gear_up__(3))
+print(m1.__gear_down__(2))

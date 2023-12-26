@@ -11,10 +11,10 @@ from classes.house import Television
 
 t1 = Television(True, 4, 10, 50, 55)
 
-t1.volume_up()
-print(t1.print())
+t1.__volume_up__()
+print(t1.__print__())
 
 t2 = Television(True, 5, 9, 50, 55)
 
-t2.volume_down()
-print(t2.print())
+t2.__volume_down__()
+print(t2.__print__())

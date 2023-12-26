@@ -8,4 +8,4 @@ from classes.vehicle import Motorcycle
 
 m1 = Motorcycle('Yamaha', 'Crosser S ABS', 'Grey', 4, False)
 
-print(m1.print())
+print(m1.__print__())

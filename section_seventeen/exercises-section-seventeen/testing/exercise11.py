@@ -11,5 +11,5 @@ from classes.vehicle import Motorcycle
 
 m1 = Motorcycle('Yamaha', 'NMAX Connected 160 ABS', 'Red', 1, 'null')
 
-print(m1.gear_up(1))
-print(m1.gear_down(2))
+print(m1.__gear_up__(1))
+print(m1.__gear_down__(2))

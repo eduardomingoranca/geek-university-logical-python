@@ -10,4 +10,4 @@ from classes.geometric_shapes import Square
 
 s1 = Square(17)
 
-print(s1.print())
+print(s1.__print__())

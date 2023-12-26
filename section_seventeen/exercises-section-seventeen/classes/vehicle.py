@@ -1,4 +1,4 @@
-def motor_gear(gear):
+def __motor_gear__(gear):
     match gear:
         case 0:
             return 'neutro'
@@ -17,22 +17,22 @@ def motor_gear(gear):
 invalid_gear = 'marcha invalida!'
 
 
-def lower_gear(gear):
+def __lower_gear__(gear):
     if gear < 0:
         return True
 
 
-def highest_gear(gear):
+def __highest_gear__(gear):
     if gear > 5:
         return True
 
 
-def turn_off(to_connect):
+def __turn_off__(to_connect):
     if not to_connect:
         return 'desligada'
 
 
-def turn_in(to_connect):
+def __turn_in__(to_connect):
     if to_connect:
         return 'ligada'
 
@@ -46,12 +46,12 @@ class Motorcycle:
         self.__gear = gear
         self.__to_connect = to_connect
 
-    def gear_up(self, gear):
+    def __gear_up__(self, gear):
 
-        if lower_gear(gear):
+        if __lower_gear__(gear):
             return invalid_gear
 
-        if highest_gear(gear):
+        if __highest_gear__(gear):
             return invalid_gear
 
         match gear:
@@ -68,11 +68,11 @@ class Motorcycle:
             case 5:
                 return f'{self.__brand}, {self.__model}, {self.__color}, quinta marcha mude para a segunda marcha'
 
-    def gear_down(self, gear):
-        if lower_gear(gear):
+    def __gear_down__(self, gear):
+        if __lower_gear__(gear):
             return invalid_gear
 
-        if highest_gear(gear):
+        if __highest_gear__(gear):
             return invalid_gear
 
         match gear:
@@ -89,10 +89,10 @@ class Motorcycle:
             case 0:
                 return f'{self.__brand}, {self.__model}, {self.__color}, marcha neutra'
 
-    def print(self):
+    def __print__(self):
         if self.__to_connect:
-            return (f'{self.__brand}, {self.__model}, {self.__color}, {motor_gear(self.__gear)} marcha,'
-                    f' a moto esta {turn_in(self.__to_connect)}!')
+            return (f'{self.__brand}, {self.__model}, {self.__color}, {__motor_gear__(self.__gear)} marcha,'
+                    f' a moto esta {__turn_in__(self.__to_connect)}!')
 
-        return (f'{self.__brand}, {self.__model}, {self.__color}, {motor_gear(self.__gear)} marcha,'
-                f' a moto esta {turn_off(self.__to_connect)}!')
+        return (f'{self.__brand}, {self.__model}, {self.__color}, {__motor_gear__(self.__gear)} marcha,'
+                f' a moto esta {__turn_off__(self.__to_connect)}!')

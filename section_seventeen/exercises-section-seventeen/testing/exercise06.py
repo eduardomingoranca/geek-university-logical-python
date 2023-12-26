@@ -6,4 +6,4 @@ from classes.geometric_shapes import Rectangle
 
 r1 = Rectangle(65, 87)
 
-print(r1.print())
+print(r1.__print__())

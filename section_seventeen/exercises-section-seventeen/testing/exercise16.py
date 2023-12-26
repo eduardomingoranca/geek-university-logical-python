@@ -6,4 +6,4 @@ from classes.vehicle import Motorcycle
 
 m1 = Motorcycle('Harley Davidson', 'Sportster S', 'Green', 2, False)
 
-print(m1.print())
+print(m1.__print__())

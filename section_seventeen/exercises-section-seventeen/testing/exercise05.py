@@ -11,4 +11,4 @@ from classes.geometric_shapes import Rectangle
 
 r1 = Rectangle(21, 43)
 
-print(r1.print())
+print(r1.__print__())

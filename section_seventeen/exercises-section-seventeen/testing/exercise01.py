@@ -8,4 +8,4 @@ from classes.user import Person
 p1 = Person('Garrett Blake', '1234 wikiHow Place, Palo Alto, California 94301',
             '16059713700')
 
-print(p1.print())
+print(p1.__print__())

@@ -59,3 +59,13 @@ E
 testing/exercise25.py,4\e\4eae9285c332431d0c970625d4798c8d73cf5803
 E
 testing/exercise26.py,7\c\7cec85c03de55357984b660535b84529c6277cf0
+E
+testing/exercise27.py,3\a\3a08ac0a71158810e77f6d95c3973fc5bb581993
+E
+testing/exercise28.py,5\7\57f14a4dffe9d1a160d9097dc6ef89c29b143aba
+E
+testing/exercise29.py,6\6\66d072c11b8ef6948b851eae67ffb396d133cae2
+E
+testing/exercise30.py,f\c\fc9e5e9f59c989dda79d4b369d2af435ab6cacf9
+E
+testing/exercise31.py,9\7\9726c3c54703a67c4946ac66324341f33901cf73

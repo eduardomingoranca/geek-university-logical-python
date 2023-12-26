@@ -7,4 +7,4 @@ from classes.user import Person
 p1 = Person('Landon Carter', '123 Carston Avenue, Birmingham, AL 35242',
             '13216540987')
 
-print(p1.print())
+print(p1.__print__())

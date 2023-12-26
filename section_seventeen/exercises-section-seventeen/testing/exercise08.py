@@ -6,4 +6,4 @@ from classes.geometric_shapes import Circle
 
 c1 = Circle(2.5)
 
-print(c1.print())
+print(c1.__print__())
