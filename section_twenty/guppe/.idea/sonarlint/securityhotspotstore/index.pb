@@ -13,3 +13,9 @@ A
 	testes.py,a\a\aa496ade6771bb75cb7d0a1f55a6e96a50241640
 J
 outros_tipos_assertions.py,b\4\b408c8f192db9dec2c29dea277088b1bb7e5285d
+C
+antes_apos_hooks.py,3\7\37722451a5d8d8203b47b2c12990435ec9016ff2
+7
+robo.py,5\5\558ea81dd1acd9d80c10a70c7566c62565aaa471
+>
+robo_testes.py,9\6\966bea06c1bb3792e45bb53f05a15da766445338
