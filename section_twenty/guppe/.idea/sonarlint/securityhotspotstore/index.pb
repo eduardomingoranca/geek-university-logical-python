@@ -11,3 +11,5 @@ A
 atividades.py,d\0\d0b0c694ee7c6bf0fb50b0780810c5f9bcdb4a73
 9
 	testes.py,a\a\aa496ade6771bb75cb7d0a1f55a6e96a50241640
+J
+outros_tipos_assertions.py,b\4\b408c8f192db9dec2c29dea277088b1bb7e5285d
