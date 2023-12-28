@@ -32,7 +32,7 @@ with open('filmes.csv', 'w') as arquivo:
 from csv import DictWriter
 
 
-with open('files/filmes3.csv', 'w') as arquivo:
+with open('files/csv/filmes3.csv', 'w') as arquivo:
     cabecalho = ['Titulo', 'Genero', 'Duracao']
     escritor_csv = DictWriter(arquivo, fieldnames=cabecalho)
     escritor_csv.writeheader()

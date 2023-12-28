@@ -11,3 +11,7 @@ D
 conhecendo_pickle.py,8\6\86e259723f16d5488e81aacac099461e73202728
 D
 files/animais.pickle,8\7\87315c051901dc18066780082a7f004e4100fef4
+>
+json_pickle.py,b\b\bbc586560cf551263432067d1ceb458a373ac08b
+E
+files/json/felix.json,a\d\add57194c7bb917a019b971e077039ea9ad89b23

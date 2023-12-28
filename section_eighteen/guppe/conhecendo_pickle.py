@@ -60,7 +60,7 @@ class Cachorro(Animal):
 # Fazer a leitura de dados em arquivos pickle
 
 
-with open('files/animais.pickle', 'rb') as arquivo:
+with open('files/pickle/animais.pickle', 'rb') as arquivo:
     gato, cachorro = pickle.load(arquivo)
     print(f'O gato chama-se {gato.nome}')
     gato.mia()
