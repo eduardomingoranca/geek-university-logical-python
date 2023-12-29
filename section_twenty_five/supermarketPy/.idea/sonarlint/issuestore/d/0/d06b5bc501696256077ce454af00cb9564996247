@@ -1,8 +1,3 @@
 
-python:S1186"[Add a nested comment explaining why this function is empty, or complete the implementation.(ú§Œéøÿÿÿÿ8áêÛ¦Ë1
-zpython:S1186"[Add a nested comment explaining why this function is empty, or complete the implementation.(ğ¦–œ8áêÛ¦Ë1
-zpython:S1186"[Add a nested comment explaining why this function is empty, or complete the implementation.(·Õ‰¤8áêÛ¦Ë1
-python:S1186"[Add a nested comment explaining why this function is empty, or complete the implementation.(ÖÃ³œÿÿÿÿÿ8áêÛ¦Ë1
-zpython:S1186"[Add a nested comment explaining why this function is empty, or complete the implementation.(º¾—™8áêÛ¦Ë1
-python:S1186#"[Add a nested comment explaining why this function is empty, or complete the implementation.(…ğıÿÿÿÿ8áêÛ¦Ë1
-python:S1186'"[Add a nested comment explaining why this function is empty, or complete the implementation.(Û«‹›şÿÿÿÿ8âêÛ¦Ë1
+xpython:S3776Q"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÖÃ³œÿÿÿÿÿ8Ñéø¦Ë1
+vpython:S5890¦"VReplace the type hint "Produto" with "Optional[Produto]" or don't assign "None" to "p"(‘º©Ø8è¾ö¦Ë1
