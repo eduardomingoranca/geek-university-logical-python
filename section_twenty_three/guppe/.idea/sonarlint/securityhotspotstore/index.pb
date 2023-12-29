@@ -11,3 +11,5 @@ B
 novos_metadados.py,e\7\e750986275d758606a3ee82abd22cda649d4e28a
 <
 mat_e_est.py,5\3\53b0963c749a11a818976469a165de7a708bf2f2
+E
+sintaxes_perigosas.py,5\c\5cecc8a33acd94393039fc2c719ba77f5c55f419
