@@ -9,3 +9,5 @@
 	aula04.py,b\3\b3f78200989fc6c366b624075ea2834d1fa96eae
 9
 	aula05.py,9\c\9c0d8ac2cf8df2f03cf6852ddcf223173387fa4a
+9
+	aula07.py,4\c\4cbb11a97ad546e0731f0f57dbd680c744cc32bc
