@@ -9,3 +9,5 @@ D
 debugger_fstrings.py,c\4\c4e1bf84854ba253798a519f2ae38a47179f62b8
 B
 novos_metadados.py,e\7\e750986275d758606a3ee82abd22cda649d4e28a
+<
+mat_e_est.py,5\3\53b0963c749a11a818976469a165de7a708bf2f2
