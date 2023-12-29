@@ -13,3 +13,7 @@
 	aula07.py,4\c\4cbb11a97ad546e0731f0f57dbd680c744cc32bc
 9
 	aula08.py,2\3\23b400b54ad2fa5143842b31c54bd9f525f77abf
+A
+jogo_cartas_v1.py,b\0\b0a69faf228e5d66b73c412dbc10d6cfbe3ca44a
+A
+jogo_cartas_v2.py,7\2\72f5a79ad28e4501786619043d9b472111bce252
