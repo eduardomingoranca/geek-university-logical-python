@@ -13,3 +13,5 @@ B
 mat_e_est.py,5\3\53b0963c749a11a818976469a165de7a708bf2f2
 E
 sintaxes_perigosas.py,5\c\5cecc8a33acd94393039fc2c719ba77f5c55f419
+?
+optimizacoes.py,f\0\f0109e2ac08749b45f213a155182bad6fafed7be
