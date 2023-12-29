@@ -7,3 +7,5 @@ O
 tipos_de_dados_mais_precisos.py,a\1\a19a64b740ab290d084abe75280970862e9c576d
 D
 debugger_fstrings.py,c\4\c4e1bf84854ba253798a519f2ae38a47179f62b8
+B
+novos_metadados.py,e\7\e750986275d758606a3ee82abd22cda649d4e28a
