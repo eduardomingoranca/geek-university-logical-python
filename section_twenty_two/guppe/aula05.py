@@ -22,3 +22,5 @@ print(cabecalho('geek university'))
 print(cabecalho('geek university', alinhamento=False))
 
 print(cabecalho('geek university', alinhamento='geek'))
+
+cabecalho(texto='4', alinhamento=True)
