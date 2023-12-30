@@ -1,4 +1,2 @@
 
-…python:S1192U"fDefine a constant instead of duplicating this literal 'Ainda nao existem contas cadastradas.' 3 times.(á’„8ÚÅÛË1
-python:S1192J"`Define a constant instead of duplicating this literal 'Informe o numero da sua conta: ' 3 times.(ÙıÁ±8ÛÅÛË1
-wpython:S5890”"RReplace the type hint "Conta" with "Optional[Conta]" or don't assign "None" to "c"(Ñò¶µÿÿÿÿÿ8ÛÅÛË1
+wpython:S5890–"RReplace the type hint "Conta" with "Optional[Conta]" or don't assign "None" to "c"(Ñò¶µÿÿÿÿÿ8šŒŞË1

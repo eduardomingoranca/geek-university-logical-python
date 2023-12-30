@@ -5,6 +5,8 @@ from models.cliente import Cliente
 from models.conta import Conta
 
 contas: List[Conta] = []
+CONTAS_NAO_CADASTRADAS = 'Ainda nao existem contas cadastradas.'
+NUMERO_CONTA = 'Informe o numero da sua conta: '
 
 
 def main() -> None:
@@ -71,7 +73,7 @@ def criar_conta() -> None:
 
 def efetuar_saque() -> None:
     if len(contas) > 0:
-        numero: int = int(input('Informe o numero da sua conta: '))
+        numero: int = int(input(NUMERO_CONTA))
 
         conta: Conta = buscar_conta_por_numero(numero)
 
@@ -82,14 +84,14 @@ def efetuar_saque() -> None:
         else:
             print(f'Nao foi encontrada a conta com numero {numero}')
     else:
-        print('Ainda nao existem contas cadastradas.')
+        print(CONTAS_NAO_CADASTRADAS)
     sleep(2)
     menu()
 
 
 def efetuar_deposito() -> None:
     if len(contas) > 0:
-        numero: int = int(input('Informe o numero da sua conta: '))
+        numero: int = int(input(NUMERO_CONTA))
 
         conta: Conta = buscar_conta_por_numero(numero)
 
@@ -100,14 +102,14 @@ def efetuar_deposito() -> None:
         else:
             print(f'Nao foi encontrada uma conta com numero {numero}')
     else:
-        print('Ainda nao existem contas cadastradas.')
+        print(CONTAS_NAO_CADASTRADAS)
     sleep(2)
     menu()
 
 
 def efetuar_transferencia() -> None:
     if len(contas) > 0:
-        numero_o: int = int(input('Informe o numero da sua conta: '))
+        numero_o: int = int(input(NUMERO_CONTA))
 
         conta_o: Conta = buscar_conta_por_numero(numero_o)
 
@@ -125,7 +127,7 @@ def efetuar_transferencia() -> None:
         else:
             print(f'A sua conta com numero {numero_o} nao foi encontrada.')
     else:
-        print('Ainda nao existem contas cadastradas.')
+        print(CONTAS_NAO_CADASTRADAS)
     sleep(2)
     menu()
 
@@ -153,7 +155,6 @@ def buscar_conta_por_numero(numero: int) -> Conta:
                 c = conta
 
     return c
-
 
 
 if __name__ == '__main__':
